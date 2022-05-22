@@ -11,4 +11,4 @@ The dataset is obtained from Kaggle's [ECAD dataset](https://www.kaggle.com/data
 ## III. Experiment
 1. Download your Kaggle API token from your Kaggle profile site. [Instructions](https://www.kaggle.com/docs/api).
 2. Execute the **Dataset Preparation/Dataset Preparation.ipynb** notebook to download and prepare the dataset, you'll be prompted to upload your Kaggle API token.
-3. You can the proceed to train your model using one of these implementation: Using PCA and SVM (**PCA + SVM/PCA+SVM.ipynb**), SqueezeNet (**SqueezeNet/SqueezeNet.ipynb**)
+3. You can the proceed to train your model using one of these implementations: Using PCA and SVM (**PCA + SVM/PCA+SVM.ipynb**), SqueezeNet (**SqueezeNet/SqueezeNet.ipynb**)
